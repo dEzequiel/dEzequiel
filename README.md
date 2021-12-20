@@ -4,7 +4,7 @@
 ### Mi actualidad
 
 * :notebook: Actualmente estoy estudiando el primer año de **desarrollo de aplicaciones web dual**
-* :seedling: Actualmente estoy aprendiendo **Python, MongoDB, JavaScript, HTML, XHTML y CSS**
+* :seedling: Actualmente estoy aprendiendo **Python, MongoDB y JavaScript**
 
 ### Contactame
 
