@@ -39,7 +39,8 @@ I enjoy coding with the **SOLID** principles in mind that changed my vision of u
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dezequiel&theme=buefy&langs_count=2">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dezequiel&theme=buefy&show_icons=true&count_private=true&hide=prs,issues
-">
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dezequiel&theme=shades-of-purple&langs_count=2">
+ <img height="130em" src="https://github-readme-stats.vercel.app/api?username=dezequiel&theme=shades-of-purple&show_icons=true&count_private=true&hide=prs,issues">
+
 </p>
+
