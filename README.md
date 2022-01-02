@@ -1,5 +1,3 @@
-# :wave: Ezequiel De La Rosa @dEzequiel
-
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="30"/><b>Hey! Nice to see you.</b></h1>
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dezequiel)
