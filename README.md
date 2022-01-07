@@ -9,9 +9,6 @@
 Hello, I am **Ezequiel**, a boy born in the Dominican Republic living in Spain. I like to sit in front of the computer and write what people understand as 'code'.
 
 
-I enjoy coding with the **SOLID** principles in mind that changed my vision of understanding programming. What I like the most about the whole process is testing, I love *breaking code*, for the same reason I apply **Test Driven Development** to all my projects.
-
-
 ## **Languages ​​and technologies that I have used**
 
 
