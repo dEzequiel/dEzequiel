@@ -1,13 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="30"/><b>Hey! Nice to see you.</b></h1>
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dezequiel)
-![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Slack](https://img.shields.io/badge/-Slack-E01563?style=for-the-badge&logo=Slack&logoColor=white)
-
-
 
 Hello, I am **Ezequiel**, a boy born in the Dominican Republic living in Spain. I like to sit in front of the computer and write what people understand as 'code'.
-
 
 ## **Languages ​​and technologies that I have used**
 
